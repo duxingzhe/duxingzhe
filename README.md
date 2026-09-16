@@ -1,15 +1,26 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://metrics.lecoq.io/duxingzhe?template=classic&config.timezone=Asia%2FShanghai"> </div>
+### Hi there 👋 I'm Duxingzhe
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=duxingzhe&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+Android Developer | Kotlin Enthusiast | Open Source Lover | Full-Stack Developer
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duxingzhe&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+---
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=duxingzhe" /> </div>
+🔭 **Currently**: Building awesome apps with Jetpack Compose  
+🌱 **Learning**: Kotlin Multiplatform  
+💬 **Ask me about**: Android, Kotlin, Architecture  
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=duxingzhe" /> </div>
+---
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=duxingzhe&theme=xcode" /> </div>
+**Tech Stack**
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=duxingzhe" /> </div>
