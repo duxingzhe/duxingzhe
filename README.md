@@ -1,26 +1,48 @@
-## Hi there 👋
-
-### Hi there 👋 I'm Duxingzhe
+## Hi there 👋 I'm Duxingzhe
 
 Android Developer | Kotlin Enthusiast | Open Source Lover | Full-Stack Developer
 
 ---
 
-🔭 **Currently**: Building awesome apps with Jetpack Compose  
-🌱 **Learning**: Kotlin Multiplatform  
-💬 **Ask me about**: Android, Kotlin, Architecture  
+🔭 **Currently**: Building awesome apps with Jetpack Compose
+🌱 **Learning**: Kotlin Multiplatform
+💬 **Ask me about**: Android, Kotlin, Architecture
 
 ---
 
 **Tech Stack**
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
+<div align="center">
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=duxingzhe" /> </div>
+### 💭 每日格言
+
+<!-- 随机开发者格言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ 如果我的项目对你有帮助，欢迎 Star！**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duxingzhe" />
+</div>
+
+---
